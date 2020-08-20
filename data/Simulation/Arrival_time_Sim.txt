@@ -1,0 +1,50 @@
+## Arrival time for simulation outputs ##
+1_First_Simulation
+ -Model 0
+  A16S12: 35.78s
+  A14S12: 37.45s
+ -Model 1
+  A16S12: 35.93s
+  A14S12: 37.45s
+-Model 2
+  A16S12: 35.93s
+  A14S12: 37.45s
+
+2_Additional_Simulation
+ -Model 11
+  A16S12: 33.01s
+  A14S12: 35.63s
+ -Model 12
+  A16S12: 35.93s
+  A14S12: 37.45s
+ -Model 13
+  A16S12: 38.05s
+  A14S12: 39.42s
+ -Model 14
+  A16S12: 37.60s
+  A14S12: 38.81s
+ -Model 15
+  A16S12: 39.42s
+  A14S12: 40.78s
+ -Model 16
+  A16S12: 42.00s
+  A14S12: 42.60s
+ -Model 21
+  A16S12: 33.81s
+  A14S12: 35.47s
+ -Model 22
+  A16S12: 35.93s
+  A14S12: 37.45s
+ -Model 23
+  A16S12: 38.51s
+  A14S12: 39.42s
+ -Model 24
+  A16S12: 37.45s
+  A14S12: 38.81s
+ -Model 25
+  A16S12: 37.45s
+  A14S12: 38.81s
+ -Model 26
+  A16S12: 41.84s
+  A14S12: 42.60s
+
