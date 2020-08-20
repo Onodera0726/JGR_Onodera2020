@@ -1,6 +1,7 @@
 # Onodera_JGR2020
 ## Read Me
 This repository includes the original data used in the research by Onodera et al. (2020; JGR).
+
 "Apollo"  
 - Arrival_time.txt: Specifies arrival time for Apollo S-IVB impacts used in this study.
 - A16S12_LPZ.sac: Original data for Apollo16 S-IVB impact observed with Apollo12 LPZ seismometer. Note that unit is in digital unit.
