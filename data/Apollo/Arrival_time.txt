@@ -1,0 +1,3 @@
+## Arrival time for Apollo seismic data ##
+A16S12: 27.4 s (Lognonné et al., 2003)
+A14S12: 35.4 s (Lognonné et al., 2003)
