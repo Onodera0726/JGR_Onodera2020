@@ -1,6 +1,7 @@
 # Onodera_JGR2020
 ## Read Me
 This repository includes the original data used in the research by Onodera et al. (2020; JGR).
+In case you use these data, please reference Onodera et al., "Numerical Simulation of Lunar Seismic Wave Propagation: Investigation of Subsurface Scattering Properties near Apollo 12 Landing Site".
 
 "data/Apollo"  
 - Arrival_time.txt: Specifies arrival time for Apollo S-IVB impacts used in this study.
