@@ -1,0 +1,50 @@
+## Artificial peak arrival for simulation outputs ##
+1_First_Simulation
+ -Model 0
+  A16S12: 210.74s
+  A14S12: 239.52s
+ -Model 1
+  A16S12: 197.71s
+  A14S12: 224.52s
+-Model 2
+  A16S12: 177.41s
+  A14S12: 201.19s
+
+2_Additional_Simulation
+ -Model 11
+  A16S12: 197.71s
+  A14S12: 223.92s
+ -Model 12
+  A16S12: 197.71s
+  A14S12: 224.52s
+ -Model 13
+  A16S12: 197.71s
+  A14S12: 223.92s
+ -Model 14
+  A16S12: 197.71s
+  A14S12: 223.92s
+ -Model 15
+  A16S12: 197.71s
+  A14S12: 223.77s
+ -Model 16
+  A16S12: 197.71s
+  A14S12: 223.91s
+ -Model 21
+  A16S12: 177.41s
+  A14S12: 201.19s
+ -Model 22
+  A16S12: 177.41s
+  A14S12: 201.19s
+ -Model 23
+  A16S12: 177.41s
+  A14S12: 201.19s
+ -Model 24
+  A16S12: 177.41s
+  A14S12: 201.19s
+ -Model 25
+  A16S12: 177.41s
+  A14S12: 201.19s
+ -Model 26
+  A16S12: 177.41s
+  A14S12: 201.19s
+
