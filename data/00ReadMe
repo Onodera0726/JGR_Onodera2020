@@ -1,5 +1,7 @@
 ## Read Me
 This repository includes the original data used in the research by Onodera et al. (2020; JGR).
+If you need to use these data, please reference Onodera et al. (2020) "Numerical Simulation of Lunar Seismic Wave Propagation: Investigation of Subsurface Scattering Properties near Apollo 12 Landing Site".
+
 "Apollo"  
 - Arrival_time.txt: Specifies arrival time for Apollo S-IVB impacts used in this study.
 - A16S12_LPZ.sac: Original data for Apollo16 S-IVB impact observed with Apollo12 LPZ seismometer. Note that unit is in digital unit.
